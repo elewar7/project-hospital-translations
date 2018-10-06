@@ -5,19 +5,19 @@
         <LanguageNameLocalized>Español</LanguageNameLocalized>
 
         <Contributors>
-            <Name>edu</Name>
+            <Name>edu, Joshi</Name>
         </Contributors>
         
         <LocalizedStrings>
             <!--Building-->
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT</LocID>                       <Text>That's the spot</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT_DESCRIPTION</LocID>           <Text>Place your first object (single objects only).</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MORE_SPOTS</LocID>                         <Text>That's more spots</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MORE_SPOTS_DESCRIPTION</LocID>             <Text>Place 100 objects (single objects only).</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_All_SPOTS</LocID>                          <Text>That's all the spots</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_All_SPOTS_DESCRIPTION</LocID>              <Text>Place 1000 objects (single objects only).</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_VERY_NICE</LocID>                          <Text>Very, nice, beautiful</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_VERY_NICE_DESCRIPTION</LocID>              <Text>Place 100 decorations.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT</LocID>                       <Text>Ese es el lugar</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PLACE_OBJECT_DESCRIPTION</LocID>           <Text>Coloca tu primer objeto (Sólo individuales).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MORE_SPOTS</LocID>                         <Text>Hay más lugares</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MORE_SPOTS_DESCRIPTION</LocID>             <Text>Coloca 100 objetos (Sólo individuales).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_All_SPOTS</LocID>                          <Text>Esos son todos los lugares</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_All_SPOTS_DESCRIPTION</LocID>              <Text>Coloca 1000 objetos (Sólo individuales).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_VERY_NICE</LocID>                          <Text>Muy, agradable, bonito</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_VERY_NICE_DESCRIPTION</LocID>              <Text>Colocar 100 adornos.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GARDENER</LocID>                           <Text>Paisajista</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GARDENER_DESCRIPTION</LocID>               <Text>Planta 30 árboles.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_I_SEE_YOU</LocID>                          <Text>I see you</Text>  </GameDBLocalizedString>
