@@ -5,7 +5,7 @@
         <LanguageNameLocalized>Español</LanguageNameLocalized>
 
         <Contributors>
-            <Name>edu</Name>
+            <Name>edu, Joshi</Name>
         </Contributors>
         
         <LocalizedStrings>
@@ -42,67 +42,67 @@
             <GameDBLocalizedString>      <LocID>DIA_LAR</LocID>                         <Text>Laringitis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_LAR_DESCRIPTION</LocID>             <Text>La laringitis consiste en una inflamación de las cuerdas vocales localizadas en la laringe. Puede deberse a una infección bacteriana o vírica, pero también a un uso excesivo y prolongado de la voz.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_INF</LocID>                         <Text>Influenza</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INF_DESCRIPTION</LocID>             <Text>Influenza, commonly known as 'the flu', is a common infectious disease caused by the influenza virus family.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BRN</LocID>                         <Text>Bronchitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BRN_DESCRIPTION</LocID>             <Text>Bronchitis is an inflammation of the lower airways called bronchi and is usually caused by virus.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HFV</LocID>                         <Text>Hay fever</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HFV_DESCRIPTION</LocID>             <Text>Hay fever, medically known as allergic rhinitis, is an inflammation in the nose caused by an allergic reaction to an allergen in the air, such as pollen. </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ACD</LocID>                         <Text>Contact dermatitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ACD_DESCRIPTION</LocID>             <Text>Contact dermatitis is a localized rash or irritation of the skin caused by contact to an allergen or irritant.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GEW</LocID>                         <Text>Golfer's elbow</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GEW_DESCRIPTION</LocID>             <Text>Golfer's elbow, also known as medial epicondylitis, is characterized by radiating pain from the inside of the elbow to the wrist. The condition is caused by performing repetitive movement and thus irritation of the muscles and tendons associated with said movement.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SCS</LocID>                         <Text>Scoliosis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SCS_DESCRIPTION</LocID>             <Text>Scoliosis is a sideway curvature of the spine usually in a C or S shape. Scoliosis is usually painless.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_RYS</LocID>                         <Text>Raynaud's syndrome</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_RYS_DESCRIPTION</LocID>             <Text>Raynaud's syndrome causes numbness and coldness of hands, fingers and toes as response to cold outdoor temperatures.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CFS</LocID>                         <Text>Chronic fatigue syndrome</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CFS_DESCRIPTION</LocID>             <Text>Chronic fatigue syndrome is very complicated disease that refers to a condition of extreme fatigue that can not be explained by any underlying medical condition.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INS</LocID>                         <Text>Insomnia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INS_DESCRIPTION</LocID>             <Text>Insomnia is defined as a subjective experience of bad sleep. This can be due to the inability to fall asleep, sleep continuously throughout the night or waking up too early.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INF_DESCRIPTION</LocID>             <Text>Influenza, conocido como "la gripe", es una infección común causada por el virus de la familia influenza.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BRN</LocID>                         <Text>Bronquitis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BRN_DESCRIPTION</LocID>             <Text>Bronquitis es una inflamación de las vías aereas inferiores llamadas bronquios casuada habitualmente por virus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HFV</LocID>                         <Text>Fiebre del Heno</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HFV_DESCRIPTION</LocID>             <Text>Fiebre del Heno, conocida como rinitis alérgica, es una inflamación de las fosas nasales por una reacción alérgica a un alérgeno del aire, como el polen. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACD</LocID>                         <Text>Dermatitis de contacto</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACD_DESCRIPTION</LocID>             <Text>Dermatitis de contacto es una erupción localizada o irritación de la piel causada por un alérgeno o irritante.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GEW</LocID>                         <Text>Codo de golfista</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GEW_DESCRIPTION</LocID>             <Text>Codo de golfista, conocido como epicondilitis, se caracteriza por dolor irradiado desde dentro del codo hasta la muñeca. The condition is caused by performing repetitive movement and thus irritation of the muscles and tendons associated with said movement.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCS</LocID>                         <Text>Escoliosis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCS_DESCRIPTION</LocID>             <Text>Escoliosis es una desviación lateral de la curvatura espinal normalmente con forma de C o S. La escoliosis normalmente es indolora.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RYS</LocID>                         <Text>Síndrome de Raynaud</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RYS_DESCRIPTION</LocID>             <Text>Síndrome de Raynaud causa adormecimiento y enfriamiento de las manos y dedos en respuesta al frío ambiente.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CFS</LocID>                         <Text>Síndrome de fatiga crónica</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CFS_DESCRIPTION</LocID>             <Text>Síndrome de fatiga crónica es una complicada enfermedad que se refiere a condiciones de fatiga extrema que no pueden explicarse médicamente.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INS</LocID>                         <Text>Insomnio</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INS_DESCRIPTION</LocID>             <Text>Insomnio se define como una experiencia subjetiva de haber dormido mal. Puede ser causado por dificultad en concilar el sueño, tener un sueño continuo o pronto despertar.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>TRM_ACT</LocID>                         <Text>Arm contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_ACT_DESCRIPTION</LocID>             <Text>Arm contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_HCT</LocID>                         <Text>Hand contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_HCT_DESCRIPTION</LocID>             <Text>Hand contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_FCT</LocID>                         <Text>Foot contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_FCT_DESCRIPTION</LocID>             <Text>Foot contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_ACN</LocID>                         <Text>Ankle contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_ACN_DESCRIPTION</LocID>             <Text>Ankle contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_LCT</LocID>                         <Text>Leg contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_LCT_DESCRIPTION</LocID>             <Text>Leg contusion refer to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CCT</LocID>                         <Text>Chest contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CCT_DESCRIPTION</LocID>             <Text>Chest contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACT</LocID>                         <Text>Contusión en brazo</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACT_DESCRIPTION</LocID>             <Text>Contusión en brazo se refiere a una contusión en el tejido blando, sin fractura o lesiones mayores en piel o músculo.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_HCT</LocID>                         <Text>Contusión en mano</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_HCT_DESCRIPTION</LocID>             <Text>Contusión en mano se refiere a una contusión en el tejido blando, sin fractura o lesiones mayores en piel o músculo.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FCT</LocID>                         <Text>Contusión en pie</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FCT_DESCRIPTION</LocID>             <Text>Contusión en pie se refiere a una contusión en el tejido blando, sin fractura o lesiones mayores en piel o músculo.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACN</LocID>                         <Text>Contusión en tobillo</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACN_DESCRIPTION</LocID>             <Text>Contusión en tobillo se refiere a una contusión en el tejido blando, sin fractura o lesiones mayores en piel o músculo.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LCT</LocID>                         <Text>Contusión en pierna</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LCT_DESCRIPTION</LocID>             <Text>Contusión en pierna se refiere a una contusión en el tejido blando, sin fractura o lesiones mayores en piel o músculo.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CCT</LocID>                         <Text>Contusión torácica</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CCT_DESCRIPTION</LocID>             <Text>Contusión torácica se refiere a una contusión en el tejido blando, sin fractura o lesiones mayores en piel o músculo.</Text>   </GameDBLocalizedString>
 
             <!-- ============================ -->
             <!-- Diagnoses - General surgery department-->
             <!-- ============================ -->
             
             <GameDBLocalizedString>      <LocID>DIA_HEPA</LocID>                        <Text>Hepatitis A</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HEPA_DESCRIPTION</LocID>            <Text>Hepatitis refers to an infection of the liver. Hepatitis A virus spreads through feces and usually occurs in areas with poor sanitation or hygiene.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEPA_DESCRIPTION</LocID>            <Text>Hepatitis se refiere a una infección del hígado. El virus de la Hepatitis A se contrae a través de las heces habitualmente en areas deficitarias en sanidad e higiene.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HEPB</LocID>                        <Text>Hepatitis B</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HEPB_DESCRIPTION</LocID>            <Text>Hepatitis refers to an infection of the liver. Hepatitis B virus spreads via blood, sexual contact or from mother to child.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_EPI</LocID>                         <Text>Exocrine pancreatic insufficiency</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_EPI_DESCRIPTION</LocID>             <Text>Pancreatic insufficiency is caused due to the damage to the gland or due to the infection. Disease affects normal absorption of nutrients in small intestine thus it is responsible for vitamin and mineral deficiencies.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_THD</LocID>                         <Text>Hashimoto's thyroiditis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_THD_DESCRIPTION</LocID>             <Text>Hashimoto's thyroiditis is an autoimmune disease where the immune system gradually destroys the thyroid gland.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HPT</LocID>                         <Text>Hypothyroidism</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HPT_DESCRIPTION</LocID>             <Text>Hypothyroidism is a disease where the thyroid gland functions inadequately, thus producing too little thyroid hormone.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRT</LocID>                         <Text>Grave's disease</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRT_DESCRIPTION</LocID>             <Text>Grave's disease is an endocrine disease where the thyroid gland produces excess thyroid hormone.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OES</LocID>                         <Text>Oesophagitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OES_DESCRIPTION</LocID>             <Text>Oesophagitis is an inflammation of oesophageal lining. If left untreated it causes swallowing difficulties and become very uncomfortable and can cause other diseases of the closest structures. Treatment is combined with diet modification. </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OEV</LocID>                         <Text>Esophageal varices</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_OEV_DESCRIPTION</LocID>             <Text>Esophageal varices are abnormally enlarged veins in esophagus. They are usually caused by portal hypertension.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HBP</LocID>                         <Text>H. pylori infection</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HBP_DESCRIPTION</LocID>             <Text>Helicobacter pylori is a spiral shaped bacteria present in human digestive apparatus. It has a tendency to infect stomach lining and is very contagious.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GAU</LocID>                         <Text>Peptic gastric ulcer</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GAU_DESCRIPTION</LocID>             <Text>A peptic gastric ulcer is an open lesion in the lining of the stomach. It is most commonly caused by bacteria or excessive use of NSAIDs</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEPB_DESCRIPTION</LocID>            <Text>Hepatitis se refiere a una infección del hígado. El virus de la Hepatitis B se contrae por vía sanguínea, fluidos sexuales y de madre a feto.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_EPI</LocID>                         <Text>Insuficiencia exocrina pancreática</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_EPI_DESCRIPTION</LocID>             <Text>La insuficiencia pancreática está causada por una lesión de la glándula debido a una infección. La enfermerdad afecta a la normal absorción de nutrientes en el intestino delgado por lo que hay deficiencia en vitaminas y minerales.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_THD</LocID>                         <Text>Tiroiditis de Hashimoto</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_THD_DESCRIPTION</LocID>             <Text>La tiroiditis de Hashimoto es una enfermedad autoinmune donde el sistema inmune destruye gradualmente la glándula tiroides.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HPT</LocID>                         <Text>Hipotiroidismo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HPT_DESCRIPTION</LocID>             <Text>El hipotiroidismo es una enfermedad donde la glándula tiroides funciona mal, produciendo insuficientes hormonas tiroideas.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRT</LocID>                         <Text>Enfermedad de Grave</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRT_DESCRIPTION</LocID>             <Text>La enfermedad de Grave es una enfermedad endocrina donde la glándula tiroides produce un exceso de hormonas tiroideas.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OES</LocID>                         <Text>Esofagitis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OES_DESCRIPTION</LocID>             <Text>La esofagitis es una inflamación de la mucosa esofágica. Sin tratamiento provoca disfagia siendo incómodo y afecta a estructuras adyacentes. El tratamiento es combinado con dieta. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OEV</LocID>                         <Text>Varices esofágicas</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_OEV_DESCRIPTION</LocID>             <Text>Las varices esofágicas son una dilatación anormal de las venas del esófago. Están causadas típicamente por hipertensión portal.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HBP</LocID>                         <Text>Infección por H. Pylori</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HBP_DESCRIPTION</LocID>             <Text>Helicobacter pylori es una bacteria con forma espiral  presente en el aparato digestivo del Hombre. Tiene tendencia a infectar la mucosa gástrica y es muy contagiosa.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GAU</LocID>                         <Text>Úlcera péptica</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GAU_DESCRIPTION</LocID>             <Text>La úlcera gástrica péptica  es una lesión abierta en la mucosa gástrica. Está causada habitualmente por bacterias o abuso de AINEs.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_GAS</LocID>                         <Text>Gastritis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GAS_DESCRIPTION</LocID>           	<Text>Gastritis is an inflammation or erosion of the stomach's lining. It is caused by bad nutrition, or due to excessive alcohol use or excessive use of some medication. Treatment is relatively short and diet modification improves the effectiveness of treatment.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GAS_DESCRIPTION</LocID>           	<Text>Gastritis es una inflamación o erosión de la mucosa gástrica. Causada por malnutrición, o consumo excesivo de alcohol o abuso de cierta medicación. El tratamiento es relativamente corto y mejora la efectividad con modificación dietética.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_DUO</LocID>                         <Text>Duodenitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_DUO_DESCRIPTION</LocID>             <Text>Doudenitis is an inflammation of the lining of the first part of the small intestine, which is 12 inches long and curved into the C-shape.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_APP</LocID>                         <Text>Appendicitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_APP_DESCRIPTION</LocID>             <Text>Appendicitis refers to inflammation of the lining of the appendix, which becomes obstructed and swollen. A ruptured appendix is fatal and thus appendicitis is one of the most common reasons for abdominal surgery.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_DUO_DESCRIPTION</LocID>             <Text>Doudenitis es una inflamación de la mucosa de la primera parte del intestino delgado, que tiene 12 pulgadas de largo y una curva con forma de C.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APP</LocID>                         <Text>Apendicitis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APP_DESCRIPTION</LocID>             <Text>Apendicitis se refiere a la inflamación de la mucosa del apéndice, que se obstruye e inflama. La ruptura del apéndice es potencialmente mortal y la apendicitis es una de las causas más habituales para cirugía abdominal.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CRH</LocID>                         <Text>Crohn's disease</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CRH_DESCRIPTION</LocID>             <Text>Crohn's disease is an inflammatory bowel disease with unknown exact cause, however it is evident that there are genetic, environmental and autoimmune components.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ULC</LocID>                         <Text>Ulcerative colitis</Text>  </GameDBLocalizedString>
